@@ -1,5 +1,4 @@
 {
     "api_key": "abc123",
     "debug": true,
-    "timeout": 60
 }
