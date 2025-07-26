@@ -35,3 +35,6 @@ pip-log.txt
 *.bat
 *.ps1
 
+# Bak files
+*.bak
+
