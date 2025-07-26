@@ -1,0 +1,4 @@
+john.doe@example.com
+invalid_email@com
+jane123@domain.net
+noatsymbol.com
